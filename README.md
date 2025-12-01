@@ -1,5 +1,3 @@
-# Trey
-
 Software developer exploring the intersection of AI and interactive systems.
 
 Currently building games, simulations, and tools that push creative boundaries.
